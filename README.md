@@ -1,3 +1,4 @@
-# ai_coder
-lets make an ai coder, and make it make itself
-the goal is to make it make itself on the ai branch
+# ai-appmaker
+Everyone has wanted to make an app before.
+Use ai to make a fullstack app.
+![image](https://github.com/user-attachments/assets/9a85c2ff-e0ab-413d-bb99-32cc8bb9a54c)
