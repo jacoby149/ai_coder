@@ -3,7 +3,9 @@ Everyone has wanted to make an app before.
 Use ai to make a fullstack app.
 
 The project starts with a boilerplate React and FastAPI App
-<img width="1464" alt="image" src="https://github.com/user-attachments/assets/365d9ef9-5629-4a97-a7dc-2db5b1b36862" />
+
+<img width="1459" alt="image" src="https://github.com/user-attachments/assets/5028079b-f495-47f3-a476-48f1940a3da3" />
+
 
 The AI chat has tooling to be able to build the fullstack app of your dreams!
 Just Chat with it!
